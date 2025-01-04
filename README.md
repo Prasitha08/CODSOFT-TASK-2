@@ -10,6 +10,5 @@
 
 **BATCH DURATION** : DECEMBER-25,2024 TO JANUARY-25,2025
 
-**OUTPUT FOR TASK 2** :
-
-               <img width="418" alt="{27D94C64-7C04-47F7-83D1-57107E834143}" src="https://github.com/user-attachments/assets/b3afe53e-3544-4d6f-88b3-ce36b88fe64e" />
+**OUTPUT FOR TASK 2** : 
+<img width="418" alt="{27D94C64-7C04-47F7-83D1-57107E834143}" src="https://github.com/user-attachments/assets/b3afe53e-3544-4d6f-88b3-ce36b88fe64e" />
